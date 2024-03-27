@@ -1,4 +1,4 @@
-### Hi there 👋
+student at solent university
 
 <!--
 **37715/37715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
