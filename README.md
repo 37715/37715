@@ -1,4 +1,4 @@
-student at solent university
+i love javascript and i love music!
 
 <!--
 **37715/37715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
